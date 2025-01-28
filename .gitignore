@@ -1,0 +1,5 @@
+.env
+/__pycache__
+/src/events/__pycache__
+/src/handlers/__pycache__
+/src/commands/util/__pycache__
