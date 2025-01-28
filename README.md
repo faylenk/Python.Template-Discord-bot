@@ -16,14 +16,37 @@
 TOKEN=(YOUR TOKEN HERE)
 ```
 <p align="left">
-  <strong>In your shell, put these commands:</strong>
+  <strong>In your shell/terminal, put these commands:</strong>
 </p>
 
 ```shell
 pip install discord
 pip install python-dotenv
-pip insttall discord-py-interactions
+pip install discord-py-interactions
 ```
+
+<p align="left">
+ <strong>If you need to set your `PYTHONPATH`, just put this on your shell/terminal:</strong>
+</p>
+
+<details>
+<summary>If you are on Linux/macOS 🟥</summary>
+<br>
+ 
+```shell
+export PYTHONPATH=$(pwd)/src
+```
+</details>
+
+<details>
+ <summary>If you are on Windows 🟥</summary>
+ <br>
+ 
+```powershell
+set PYTHONPATH=%CD%\src
+```
+</details>
+
 
 # FEATURES
 
