@@ -28,7 +28,7 @@ pip insttall discord-py-interactions
 # FEATURES
 
 * Automatically recognizes new commands.
-* Automatically recoginizes new events and handlers.
+* Automatically recoginizes new events.
   
 <p align="left">
  <strong>
